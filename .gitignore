@@ -49,5 +49,3 @@ google-services.json
 
 /ios/Runner/Info.plist
 /lib/firebase_options.dart
-
-lib/firebase_options.dart
